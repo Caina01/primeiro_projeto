@@ -28,3 +28,5 @@ switch(dia){
     
     }
   
+    let carro = "Civic"
+    
